@@ -1,0 +1,51 @@
+body /*Code for radial background*/
+{
+background-image:linear-gradient(rgb(27, 8, 53),rgb(148, 42, 0) 90%);
+background-repeat:no-repeat;
+height:1800px;
+}
+
+img /*Code for the image on website*/
+{   display:grid;
+    margin-left: auto;
+    margin-right: auto;
+    border-style:outset;
+    border-color: yellow;
+    width:40%;
+    height:400px;
+}
+
+h1 /*Header 1's font customizations */
+{
+    text-align: center;
+    color:gold;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-transform:uppercase;
+}
+
+table /*The entire Table's font and graphics */
+{
+    color:crimson;
+    font-size:130%;
+    border-style:ridge;
+    border-color:gold;
+    font-weight: 900;
+
+}
+
+h2 /*Header 2's font color*/
+{
+    color:aquamarine;
+    font-weight:900;
+}
+
+
+h3 /*Header 3's font customizations */
+{
+    color:aquamarine;
+    font-style: italic;
+    font-size:x-large;
+    font-weight: bolder;
+}
